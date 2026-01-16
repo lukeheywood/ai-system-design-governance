@@ -83,6 +83,23 @@ It is intentionally **abstract, stable, and reusable**.
 
 ---
 
+## 🧭 Interpretive notice
+
+The governance patterns, phases, and examples defined in this repository represent
+**interpretive system-level governance analysis**.
+
+They are not factual findings, determinations of intent, or claims about
+any specific organisation, system, or actor.
+
+These interpretations are derived from repeated interaction with complex
+socio-technical systems and are **provisional by design**.
+They may evolve as additional context, constraints, or evidence become available.
+
+This framework does not declare truth.
+It defines **how governance claims may be reasoned about, tested, and made inspectable**.
+
+---
+
 ## 🔗 Relationship to AI systems (e.g. ONE)
 
 AI systems (such as ONE) are **instances governed under this framework**.
