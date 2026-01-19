@@ -5,48 +5,51 @@ This folder contains hypothetical stress simulations designed to illustrate stru
 These are not case studies.
 They are fictional, systems-engineering style scenarios used to test the framework under extreme pressure conditions.
 
-Purpose of these scenarios:
+---
 
-Demonstrate how systems become illegitimate without explicit authority and revocation structures
+## Purpose of These Scenarios
 
-Show failure that occurs even when organisations believe they are compliant
+* Demonstrate how systems become illegitimate without explicit authority and revocation structures
+* Show failure that occurs even when organisations believe they are compliant
+* Illustrate governance gaps without referencing real institutions or data
+* Provide a safe, universal testing surface for the framework
 
-Illustrate governance gaps without referencing real institutions or data
+---
 
-Provide a safe, universal testing surface for the framework
+## Design Constraints
 
 Each scenario is intentionally:
 
-Generic and non-identifiable
-
-Free from real organisations, jurisdictions, or datasets
-
-Focused on structure, power, authority, and control
-
-Written as governance simulations, not narratives
+* Generic and non-identifiable
+* Free from real organisations, jurisdictions, or datasets
+* Focused on structure, power, authority, and control
+* Written as governance simulations, not narratives
 
 They function similarly to:
 
-Safety engineering stress models
-
-Constitutional thought experiments
-
-Systems failure simulations used in high-risk domains
+* Safety engineering stress models
+* Constitutional thought experiments
+* Systems failure simulations used in high-risk domains
 
 The goal is not drama.
 The goal is legibility.
 
+---
+
+## What These Scenarios Reveal
+
 These scenarios help readers see how:
 
-advisory systems become de facto authority
-
-automation replaces decision-makers without revocation
-
-responsibility detaches from control
-
-legitimacy drifts silently under pressure
+* Advisory systems become de facto authority
+* Automation replaces decision-makers without revocation
+* Responsibility detaches from control
+* Legitimacy drifts silently under pressure
 
 They are included to strengthen the framework’s universality and to demonstrate that governance failures are structural, repeatable, and detectable before harm occurs.
+
+---
+
+## Important Notice
 
 No scenario refers to a real system.
 No scenario should be interpreted as commentary on any specific organisation.
